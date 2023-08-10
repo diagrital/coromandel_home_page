@@ -18,7 +18,7 @@ def get_img_as_base64(file):
     return base64.b64encode(data).decode()
 
 
-img = get_img_as_base64(r"C:\\Users\\aspirex99\\Desktop\\Images to be used\\COROMANDEL.NS-4966f312.png")
+#img = get_img_as_base64(r"C:\\Users\\aspirex99\\Desktop\\Images to be used\\COROMANDEL.NS-4966f312.png")
 x = " "
 
 page_bg_img = f"""
@@ -32,7 +32,7 @@ background-attachment: local;
 }}
 
 [data-testid="stSidebar"] > div:first-child {{
-#background-image: url("data:image/png;base64,{img}");
+#background-image: url("data:image/png;base64,{x}");
 background-position: center center; 
 background-repeat: no-repeat;
 background-attachment: fixed;
