@@ -111,7 +111,7 @@ centered_content = """
         <img src="https://media1.giphy.com/media/VRhsYYBw8AE36/200w.webp?cid=ecf05e47qw7a3jba6noh19nnderc28uoprhou5n587x24iy2&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="Giphy Image">
     </div>
     <div class="button-container">
-        <a href="https://www.link1.com" target="_blank"><button>Button 1</button></a>
+        <a href="https://grandprizewinners-znckekecngpclccyqxmvx5.streamlit.app/" target="_blank"><button>Button 1</button></a>
         <a href="https://www.link2.com" target="_blank"><button>Button 2</button></a>
         <a href="https://www.link3.com" target="_blank"><button>Button 3</button></a>
     </div>
