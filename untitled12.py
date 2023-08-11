@@ -111,14 +111,14 @@ centered_content = """
         <img src="https://media1.giphy.com/media/VRhsYYBw8AE36/200w.webp?cid=ecf05e47qw7a3jba6noh19nnderc28uoprhou5n587x24iy2&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="Giphy Image">
     </div>
     <div class="button-container">
-        <a href="https://grandprizewinners-6uye2ujttyngreyi2hznbh.streamlit.app/" target="_blank"><button>Button 1</button></a>
-        <a href="https://www.link2.com" target="_blank"><button>Button 2</button></a>
-        <a href="https://www.link3.com" target="_blank"><button>Button 3</button></a>
+        <a href="https://grandprizewinners-6uye2ujttyngreyi2hznbh.streamlit.app/" target="_blank"><button>Grand</button></a>
+        <a href="https://firstprize-y4t92cahuaecyxx8mbxswe.streamlit.app/"><button>1st_Prize</button></a>
+        <a href="https://secprizewinners-djz6ompsjooru7wwz72hrs.streamlit.app/"><button>2nd_Prize</button></a>
     </div>
     <div class="button-container">
-        <a href="https://www.link4.com" target="_blank"><button>Button 4</button></a>
-        <a href="https://www.link5.com" target="_blank"><button>Button 5</button></a>
-        <a href="https://www.link6.com" target="_blank"><button>Button 6</button></a>
+        <a href="https://thirdpricewinner-gefwhfrn5fufozomuec69p.streamlit.app/"><button>3rd_Prize</button></a>
+        <a href="https://www.link5.com" target="_blank"><button>4th_Prize</button></a>
+        <a href="https://sixthwinner-rksgvlbxvvjjnxhiiwmibc.streamlit.app/"><button>5th_Prize</button></a>
     </div>
 </div>
 """
